@@ -49,7 +49,9 @@ Requerimientos
 * primary.fxml: Archivo que define la estructura de la interfaz de usuario.
 
 
+
 **Contribución**
+
 Si se desea contribuir a este proyecto, ¡es bienvenido! Puedes bifurcar el repositorio, realizar tus cambios y enviar un pull request.
 
 **Autores**
