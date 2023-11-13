@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo determinar diferentes tipos de superficies cu�
 | Maria Fernanda Corzo  | https://github.com/ |
 
 
-##Instalación
+###Instalación
 - Requerimientos
 * Java 17 o superior
 * Entorno de desarrollo Java (IDE) compatible con JavaFX
