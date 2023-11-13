@@ -12,31 +12,30 @@ Este proyecto tiene como objetivo determinar diferentes tipos de superficies cu�
 | Maria Fernanda Corzo  | https://github.com/ |
 
 
-###Instalación
+*Instalación*
 - Requerimientos
 * Java 17 o superior
 * Entorno de desarrollo Java (IDE) compatible con JavaFX
 
 
-- Pasos de instalación
+*Pasos de instalación*
+
 1. Clona o Descarga el Repositorio
 2. Descargar ZIP: Ve a la página principal del repositorio en GitHub. Haz clic en el botón verde "Code" y elige "Download ZIP". Una vez descargado, descomprime el archivo.
 3. Clonar con Git: Si tienes Git instalado, copia la URL del repositorio. Abre la terminal o línea de comandos y ejecuta:
-git clone https://github.com/usuario/superficies-cuadricas.git
-Reemplaza https://github.com/usuario/superficies-cuadricas.git con la URL del repositorio.
-
+  git clone https://github.com/usuario/superficies-cuadricas.git
+  Reemplaza https://github.com/usuario/superficies-cuadricas.git con la URL del repositorio.
 4. Configurar el Entorno de Desarrollo
-4.1. Verifica la Versión de Java: Asegúrate de tener Java instalado en tu máquina. Puedes verificar la instalación ejecutando java -version en tu terminal o línea de comandos.
-4.2. Configura tu IDE: Abre el proyecto en tu entorno de desarrollo Java (Eclipse, IntelliJ, NetBeans, etc.). Asegúrate de tener JavaFX configurado y los complementos necesarios instalados.
+  4.1. Verifica la Versión de Java: Asegúrate de tener Java instalado en tu máquina. Puedes verificar la instalación ejecutando       java -version en tu terminal o línea de comandos.
+  4.2. Configura tu IDE: Abre el proyecto en tu entorno de desarrollo Java (Eclipse, IntelliJ, NetBeans, etc.). Asegúrate de tener JavaFX configurado y los complementos necesarios instalados.
 5. Ejecutar la Aplicación
+  5.1 Abre la Clase Principal: Localiza y abre el archivo CopyOfVista.java en tu IDE.
+  5.2 Ejecuta la Aplicación: Ejecuta la clase CopyOfVista. Esto iniciará la aplicación y abrirá la interfaz para que puedas           utilizarla.
 
-5.1 Abre la Clase Principal: Localiza y abre el archivo CopyOfVista.java en tu IDE.
-5.2 Ejecuta la Aplicación: Ejecuta la clase CopyOfVista. Esto iniciará la aplicación y abrirá la interfaz para que puedas utilizarla.
-
-Siguiendo estos pasos, podrás clonar el repositorio desde GitHub, configurar el entorno de desarrollo y ejecutar la aplicación para usarla sin problemas. Recuerdar que es fundamental tener #Java# instalado y un entorno de desarrollo configurado para trabajar con proyectos JavaFX como este.
+*Siguiendo estos pasos, podrás clonar el repositorio desde GitHub, configurar el entorno de desarrollo y ejecutar la aplicación para usarla sin problemas. Recuerdar que es fundamental tener #Java# instalado y un entorno de desarrollo configurado para trabajar con proyectos JavaFX como este.*
 
 
-- Uso
+*Uso*
 * Ejecuta la clase CopyOfVista para iniciar la aplicación.
 * Ingresa valores numéricos en los campos de texto txtA, txtB, etc.
 * Haz clic en el botón Determinar Superficie para identificar el tipo de superficie a partir de los coeficientes ingresados.
@@ -44,16 +43,16 @@ Siguiendo estos pasos, podrás clonar el repositorio desde GitHub, configurar el
 * Utiliza el botón Actualizar Datos para borrar los valores ingresados y comenzar de nuevo.
 
   
-- Estructura del Proyecto
+*Estructura del Proyecto*
 * CopyOfControllerPlanos.java: Contiene la lógica principal de la aplicación y maneja los eventos de la interfaz gráfica.
 * CopyOfVista.java: Clase principal que inicializa la interfaz gráfica a partir del archivo FXML.
 * primary.fxml: Archivo que define la estructura de la interfaz de usuario.
 
 
-Contribución
+*Contribución*
 Si se desea contribuir a este proyecto, ¡es bienvenido! Puedes bifurcar el repositorio, realizar tus cambios y enviar un pull request.
 
-Autores
+*Autores*
 Juan Ortiz - 1152298
 Alison Martinez - 1152299
 Maria Corzo - 1153000
