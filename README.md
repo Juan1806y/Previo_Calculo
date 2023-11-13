@@ -13,7 +13,7 @@ Este proyecto tiene como objetivo determinar diferentes tipos de superficies cu√
 
 
 **Instalaci√≥n**
-- Requerimientos
+Requerimientos
 * Java 17 o superior
 * Entorno de desarrollo Java (IDE) compatible con JavaFX
 
