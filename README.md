@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo determinar diferentes tipos de superficies cu√
 | Juan David Ortiz Cano  | https://github.com/Juan1806y |
 | Linda Valentina Bohorquez Hernandez   |   https://github.com/LindaValentinaBohorquez  |
 | Jorge Andres Forero  | https://github.com/ |
-| Alison Brigitte Machado  | https://github.com/ |
+| Alison Brigitte Martinez  | https://github.com/ |
 | Maria Fernanda Corzo  | https://github.com/ |
 
 
