@@ -23,8 +23,8 @@ Requerimientos
 1. Clona o Descarga el Repositorio
 2. Descargar ZIP: Ve a la página principal del repositorio en GitHub. Haz clic en el botón verde "Code" y elige "Download ZIP". Una vez descargado, descomprime el archivo.
 3. Clonar con Git: Si tienes Git instalado, copia la URL del repositorio. Abre la terminal o línea de comandos y ejecuta:
-  * git clone https://github.com/usuario/superficies-cuadricas.git
-  * Reemplaza https://github.com/usuario/superficies-cuadricas.git con la URL del repositorio.
+  * git clone https://github.com/
+  * Reemplaza https://github.com/
 4. Configurar el Entorno de Desarrollo
   * Verifica la Versión de Java: Asegúrate de tener Java instalado en tu máquina. Puedes verificar la instalación ejecutando       java -version en tu terminal o línea de comandos.
   *. Configura tu IDE: Abre el proyecto en tu entorno de desarrollo Java (Eclipse, IntelliJ, NetBeans, etc.). Asegúrate de tener JavaFX configurado y los complementos necesarios instalados.
